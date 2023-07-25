@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashCoder420
+- 👋 Hi, I’m YASH (Yash Kumar Bawariya).
 - 👀 I’m interested in Developing Web and Software.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Project and Team up.
